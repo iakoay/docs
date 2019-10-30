@@ -5,5 +5,5 @@ Contents:
 
 .. toctree::
 
-   hello/hello.md
-   hello/world.md
+   hello.md
+   world.md
