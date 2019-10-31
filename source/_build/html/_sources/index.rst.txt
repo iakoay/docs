@@ -4,7 +4,6 @@
 
 .. toctree::
    :maxdepth: 3
-   :glob:
    :numbered: 2
 
    charpter1/index
